@@ -1,0 +1,17 @@
+public class Somma {
+	public static void main(String[] args){
+		int[] arrays = new int[]{1, 4, 6, 3};
+		int res = sumAll(arrays);
+		System.out.println(res);
+	}
+	static int sumAll(int[] a){
+		int sum = 0;
+		for(int i = 0; i <a.length-1; i++){
+			if(a[i] < 0){
+		           return sum;
+		       }
+			sum = sum +a[i];
+		}
+		return sum;
+	}
+}
