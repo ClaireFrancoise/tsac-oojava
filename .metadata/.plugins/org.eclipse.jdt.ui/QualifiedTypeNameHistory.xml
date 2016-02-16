@@ -5,4 +5,20 @@
 <fullyQualifiedTypeName name="Dipendente"/>
 <fullyQualifiedTypeName name="com.microsoft.winme.server.ui.Window"/>
 <fullyQualifiedTypeName name="com.microsoft.winme.model.ui.User"/>
+<fullyQualifiedTypeName name="com.sun.xml.internal.bind.v2.schemagen.xmlschema.List"/>
+<fullyQualifiedTypeName name="java.util.List"/>
+<fullyQualifiedTypeName name="java.util.Set"/>
+<fullyQualifiedTypeName name="java.util.HashSet"/>
+<fullyQualifiedTypeName name="java.io.PrintWriter"/>
+<fullyQualifiedTypeName name="com.google.maps.GeocodingApi"/>
+<fullyQualifiedTypeName name="com.google.maps.GeocodingApiRequest"/>
+<fullyQualifiedTypeName name="com.google.maps.model.GeocodingResult"/>
+<fullyQualifiedTypeName name="com.google.maps.PendingResult"/>
+<fullyQualifiedTypeName name="java.io.FileWriter"/>
+<fullyQualifiedTypeName name="java.io.FileReader"/>
+<fullyQualifiedTypeName name="java.io.BufferedReader"/>
+<fullyQualifiedTypeName name="com.sun.javafx.collections.MappingChange.Map"/>
+<fullyQualifiedTypeName name="java.util.HashMap"/>
+<fullyQualifiedTypeName name="java.util.Map"/>
+<fullyQualifiedTypeName name="formentin.claire.map.Persona"/>
 </qualifiedTypeNameHistroy>

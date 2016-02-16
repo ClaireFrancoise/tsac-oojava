@@ -24,7 +24,7 @@ public class Gioco {
 		}else if (result == 1){
 			System.out.println("Il porto è: salvo");
 		}
-		System.out.println("caratteristiche aereo" + caccia.puntiAlfa );
+		System.out.println("caratteristiche aereo" + caccia.p);
 	}
 	public static int danno(PortoNavale harbour, int incasso, int danneggiamento){
 		danneggiamento = harbour.dimensione - incasso;

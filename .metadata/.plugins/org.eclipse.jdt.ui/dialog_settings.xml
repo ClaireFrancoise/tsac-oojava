@@ -41,6 +41,7 @@
 		<item value="false" key="FinalModifier"/>
 	</section>
 	<section name="RenameInformationPopup">
+		<item value="2" key="snap_position"/>
 	</section>
 	<section name="quick_assist_proposal_size">
 	</section>
